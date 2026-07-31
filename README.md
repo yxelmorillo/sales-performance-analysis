@@ -52,10 +52,17 @@ The analysis followed these steps:
 
 ## Key Findings
 
-- Sales performance cannot be evaluated using revenue alone.
-- Some sales representatives acquired fewer customers but generated higher Lifetime Value.
-- Standardizing revenue to USD was essential for fair comparisons.
-- Correct customer attribution required selecting the latest Won opportunity before the first payment.
+- Revenue alone is not sufficient to evaluate sales performance.
+- Some sales representatives acquired fewer customers but generated higher average customer value.
+- Customer attribution required business rules to correctly assign revenue.
+- Standardizing all payments to USD enabled fair performance comparisons.
+
+## Business Recommendations
+
+- Replicate the commercial practices of top-performing sales representatives.
+- Analyze customer profiles associated with higher Lifetime Value (LTV).
+- Improve CRM data quality by resolving missing salesperson assignments.
+- Track customer retention to understand long-term salesperson performance.
 
 ## Project Structure
 
