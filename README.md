@@ -1,5 +1,15 @@
 # Sales Performance Analysis
 
+## Skills Demonstrated
+
+- SQL Data Analysis
+- Data Cleaning
+- Business Analytics
+- Customer Lifetime Value (LTV)
+- KPI Design
+- Power BI Dashboarding
+- Business Problem Solving
+
 ## Project Overview
 
 This project analyzes sales performance beyond revenue.
