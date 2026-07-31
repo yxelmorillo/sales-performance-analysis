@@ -62,7 +62,7 @@ De esta manera es posible identificar no solo a los vendedores que más venden, 
 
 El dashboard resume el desempeño comercial utilizando adquisición de clientes, ingresos iniciales y Customer Lifetime Value.
 
-![Dashboard de Desempeño Comercial](images/Analisis de Rendimiento Comercial.png)
+![Dashboard de Desempeño Comercial](images/Analisis_de_Rendimiento_Comercial.png)
 
 ---
 
