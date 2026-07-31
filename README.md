@@ -2,13 +2,13 @@
 
 ## Skills Demonstrated
 
-- SQL Data Analysis
-- Data Cleaning
+- SQL Server
 - Business Analytics
-- Customer Lifetime Value (LTV)
+- Data Cleaning
 - KPI Design
-- Power BI Dashboarding
-- Business Problem Solving
+- Customer Lifetime Value (LTV)
+- Power BI
+- Git & GitHub
 
 ## Project Overview
 
@@ -42,9 +42,15 @@ The analysis followed these steps:
 5. Calculated Customer Lifetime Value (LTV).
 6. Built a Power BI dashboard to compare sales performance.
 
+## Business Impact
+
+This analysis provides a more complete way to evaluate sales performance by combining customer acquisition, initial revenue, and Lifetime Value (LTV), helping identify not only top sellers, but also the sales representatives who generate the greatest long-term business value.
+
 ---
 
 ## Dashboard
+
+The dashboard summarizes sales performance using acquisition, revenue and customer lifetime value.
 
 ![Sales Performance Dashboard](images/sales_performance_dashboard.png.png)
 
@@ -52,7 +58,7 @@ The analysis followed these steps:
 
 ## Key Findings
 
-- Revenue alone is not sufficient to evaluate sales performance.
+- Revenue alone can produce misleading sales rankings.
 - Some sales representatives acquired fewer customers but generated higher average customer value.
 - Customer attribution required business rules to correctly assign revenue.
 - Standardizing all payments to USD enabled fair performance comparisons.
