@@ -1,4 +1,4 @@
-# Sales Performance Analysis
+# Sales Performance Analysis: Evaluating Customer Acquisition & Lifetime Value
 
 ## Skills Demonstrated
 
@@ -49,6 +49,13 @@ The analysis followed these steps:
 ![Sales Performance Dashboard](images/sales_performance_dashboard.png.png)
 
 ---
+
+## Key Findings
+
+- Sales performance cannot be evaluated using revenue alone.
+- Some sales representatives acquired fewer customers but generated higher Lifetime Value.
+- Standardizing revenue to USD was essential for fair comparisons.
+- Correct customer attribution required selecting the latest Won opportunity before the first payment.
 
 ## Project Structure
 
