@@ -1,2 +1,0 @@
--- Sales Performance Analysis
--- Business Analytics Case Study
