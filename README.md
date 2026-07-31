@@ -46,7 +46,7 @@ The analysis followed these steps:
 
 ## Dashboard
 
-![Sales Performance Dashboard](images/sales_performance_dashboard.png)
+![Sales Performance Dashboard](images/sales_performance_dashboard.png.png)
 
 ---
 
